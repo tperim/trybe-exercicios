@@ -1,0 +1,6 @@
+const characters = [
+    {
+        id
+
+    }
+]
